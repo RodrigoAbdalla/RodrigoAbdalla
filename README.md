@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoAbdalla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues,prs,contribs"/>
 </div>
 <div style="display: inline_block"><br>
-  🚀 Skills
+  <p>🚀 Skills </p>
   <img align="center"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,10 +16,10 @@
   
   ##
  
-<div> 
-  <a align="left" href="https://instagram.com/rodrigo.abdalla" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a align="center" href = "mailto:rodrigo_abdalla@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="right" href="https://www.linkedin.com/in/rodrigo-abdalla-83511a163" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  <a  href="https://instagram.com/rodrigo.abdalla" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a  href = "mailto:rodrigo_abdalla@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a  href="https://www.linkedin.com/in/rodrigo-abdalla-83511a163" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
   ![Snake animation](https://github.com/RodrigoAbdalla/RodrigoAbdalla/blob/output/github-contribution-grid-snake.svg)
